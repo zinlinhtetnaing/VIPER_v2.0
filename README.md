@@ -1,7 +1,5 @@
 # VIPER_v2.0 (Xcode Templates)
 
-![VIPER_v2.0](/images/viperLogo.png "VIPER_v2.0")
-
 ## Description
 The respository contains a Module template in **VIPER architecture**. The module contains 7 files:
 
@@ -15,7 +13,7 @@ The respository contains a Module template in **VIPER architecture**. The module
 
 in order for these to work you will need a couple of base protocols and classes. so you need to click **Viper Base Files** check box.
 
-**Viper Base Files** is the import part of this template. **(You need to click check box for first time Viper Template generate)**
+**Viper Base Files** is the important part of Viper template. **(You need to click check box for first time Viper Template generate)**
 
 # Versions
 
