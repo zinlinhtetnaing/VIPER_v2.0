@@ -19,6 +19,8 @@ in order for these to work you will need a couple of base protocols and classes.
 
 * **2.0**
 
+<hr>
+
 # Installation instructions
 
 ![VIPER_v2.0](/images/viper_install_guide.jpg.gif "VIPER_v2.0")
@@ -35,6 +37,11 @@ To uninstall Xcode template run:
 make uninstall_vipertemplates
 ```
 
-After that, restart your Xcode if it was already opened.
+**After that, restart your Xcode if it was already opened.**
+
+<hr>
+
+##Credits
+
 
 
