@@ -21,11 +21,15 @@ To install VIPER_v2.0 Xcode templates clone this repo and run the following comm
 
 ![VIPER_v2.0](/images/viper_install_guide.jpg.gif "VIPER_v2.0")
 
-> make install_vipertemplates
+```bash
+make install_vipertemplates
+```
 
 To uninstall Xcode template run:
 
-> make install_vipertemplates
+```bash
+make uninstall_vipertemplates
+```
 
 After that, restart your Xcode if it was already opened.
 
