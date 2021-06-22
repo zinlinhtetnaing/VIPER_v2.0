@@ -12,10 +12,12 @@ The respository contains a Module template in **VIPER architecture**. The module
 * Protocols
 
 in order for these to work you will need a couple of base protocols and classes. so you need to click **Viper Base Files** check box.
+
 **Viper Base Files** is the import part of this template. **(You need to click check box for first time Viper Template generate)**
 
 # Versions
-* 2.0
+
+* **2.0**
 
 # Installation instructions
 
