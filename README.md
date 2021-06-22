@@ -1,5 +1,7 @@
 # VIPER_v2.0 (Xcode Templates)
 
+![VIPER_v2.0](/images/viperLogo.png "VIPER_v2.0")
+
 ## Description
 The respository contains a Module template in **VIPER architecture**. The module contains 7 files:
 
