@@ -19,7 +19,7 @@ in order for these to work you will need a couple of base protocols and classes.
 
 To install VIPER_v2.0 Xcode templates clone this repo and run the following command from root folder:
 
-![VIPER_v2.0](/images/viper_install_guide.jpg "VIPER_v2.0")
+![VIPER_v2.0](/images/viper_install_guide.gif "VIPER_v2.0")
 
 > make install_vipertemplates
 
